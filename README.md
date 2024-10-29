@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolassouzafs&label=Profile%20views&color=0e75b6&style=flat" alt="nicolassouzafs" /> </p>
 
-- 🌱 Atualmente estudo **HTLML5, CSS & JS**
+- 🌱 Atualmente estudo **SQL, Node.js, Java & Data Structure**
 
 - 💬 Futuramente desejo estudar **c-sharp, python, java & nodejs**
 
-- 📫 E-mail de contato **nicolassfs2005@gmail.com**
+- 📫 E-mail de contato **nicksouzafs2005@gmail.com**
 
 - 🔗 Outras plataformas **https://web.digitalinnovation.one/users/nicolassfs2005**
 
