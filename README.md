@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolassouzafs&label=Profile%20views&color=0e75b6&style=flat" alt="nicolassouzafs" /> </p>
 
-- 🌱 Atualmente estudo **SQL, Node.js, Java & Data Structure**
+- 🌱 Atualmente estudo **SQL, Java & Data Structure**
 
-- 💬 Futuramente desejo estudar **c-sharp, python, java & nodejs**
+- 💬 Futuramente desejo estudar **c-sharp, python, react & node.js**
 
 - 📫 E-mail de contato **nicksouzafs2005@gmail.com**
 
